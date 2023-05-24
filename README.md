@@ -16,6 +16,7 @@ That's where ContactX comes in - it lets you save these non-important contacts w
 all of these, without the contact being added to your stock phonebook.
 
 ## User's Privacy
+### Your data is your data
 ContactX prioritizes your privacy above everything else! To ensure this, ContactX uses Android's ROOM database to store all your data on your device locally. This implies that your data never leaves your phone, and all your contacts remain entirely secured and protected. You may refer to [Privacy Policy](/PrivacyPolicy.md) and [Limited Use Policy](/LimitedUsePolicy.md).
 
 ## Features
