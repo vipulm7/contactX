@@ -24,7 +24,7 @@ You may refer to [Privacy Policy](/PrivacyPolicy.md) and [Limited Use Policy](/L
 
 - ### Store Contact Details:
 Easily add and update contact details such as name, phone numbers, emails, addresses and much more.
-- ### Show a Popup of Who's Calling:
+- ### Show a Popup of Who's Calling: 
 Get notified when someone calls you and see their name on a popup window.
 - ### Merge contacts:
 Merge contacts from your phonebook and google book in one go.
