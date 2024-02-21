@@ -2,7 +2,7 @@
 
 This page is designed to inform users about ContactX's policies regarding the collection, use, and disclosure of personal information.
 
-By using ContactX, you agree to the collection and use of information in accordance with this policy. The personal information ContactX collects is used for providing better services. ContactX will never use or share your information with anyone except as described in this privacy policy.
+By using ContactX, you agree to the collection and use of information in accordance with this policy. The personal information ContactX collects is used for providing better services. ContactX will never use or share your information with anyone.
 
 ## Information Collection and Use
 To enhance your experience, ContactX requests certain personal information like your contacts, call logs, and accounts. However, ContactX prioritizes your privacy and safeguards your data using ROOM database. This means that all your information remains securely stored on your device locally and never leaves it. ContactX does not gather or retain any data on external servers.
