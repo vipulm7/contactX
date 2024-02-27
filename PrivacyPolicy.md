@@ -4,6 +4,7 @@ This page is designed to inform users about ContactX's policies regarding the co
 
 By using ContactX, you agree to the collection and use of information in accordance with this policy. The personal information ContactX collects is used for providing better services. ContactX will never use or share your information with anyone.
 
+## Your contacts and call logs are used to enhance your experience and to provide core functionalities of ContactX.
 ## Your contacts and call logs remain securely stored on your device locally and never leaves it. ContactX does not gather or retain any data on external servers.
 
 ## Information Collection and Use
