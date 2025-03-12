@@ -1,5 +1,7 @@
 # ![ContactX logo](Contact.png) contactX
 
+[Google Play Store Link](https://play.google.com/store/apps/details?id=com.vipulmittal.contactx)
+
 ## About
 #### Fed up of seeing never-ending list of irrelevant contacts in every app you use? 
 Introducing ContactX, the ultimate app for keeping your contacts separate from your stock phonebook and out of reach of other apps!
